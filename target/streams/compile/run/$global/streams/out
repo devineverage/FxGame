@@ -1,0 +1,1000 @@
+[0m[[0minfo[0m] [0mRunning cs1302.fxgame.Driver [0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m
+[0m[[31merror[0m] [0mjava.lang.IllegalArgumentException: Children: duplicate children added: parent = Group@97d9340[styleClass=root][0m
+[0m[[31merror[0m] [0m	at javafx.scene.Parent$2.onProposedChange(Parent.java:451)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.collections.VetoableListDecorator.add(VetoableListDecorator.java:206)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.shoot(Invader.java:95)[0m
+[0m[[31merror[0m] [0m	at cs1302.fxgame.Invader.update(Invader.java:166)[0m
+[0m[[31merror[0m] [0m	at com.michaelcotterell.game.Game$1.handle(Game.java:96)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.visitKeyFrame(TimelineClipCore.java:226)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.TimelineClipCore.playTo(TimelineClipCore.java:167)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Timeline.impl_playTo(Timeline.java:176)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.AnimationAccessorImpl.playTo(AnimationAccessorImpl.java:39)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.shared.InfiniteClipEnvelope.timePulse(InfiniteClipEnvelope.java:110)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation.impl_timePulse(Animation.java:1102)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.lambda$timePulse$26(Animation.java:186)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1$$Lambda$107/285838279.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.security.AccessController.doPrivileged(Native Method)[0m
+[0m[[31merror[0m] [0m	at javafx.animation.Animation$1.timePulse(Animation.java:185)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:344)[0m
+[0m[[31merror[0m] [0m	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:521)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:505)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$400(QuantumToolkit.java:334)[0m
+[0m[[31merror[0m] [0m	at com.sun.javafx.tk.quantum.QuantumToolkit$$Lambda$46/1597938260.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication.lambda$null$48(GtkApplication.java:139)[0m
+[0m[[31merror[0m] [0m	at com.sun.glass.ui.gtk.GtkApplication$$Lambda$42/1327763628.run(Unknown Source)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:745)[0m

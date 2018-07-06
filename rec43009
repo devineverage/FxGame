@@ -1,0 +1,524 @@
+Everage-Devin-fxgame:
+total 1244
+-rw-r--r--. 1 ugrad     320 Dec  5 17:05 build.sbt
+-rw-r--r--. 1 ugrad    2652 Dec  5 17:05 FAQ.md
+drwxr-xr-x. 2 ugrad    4096 Dec  5 17:05 lib
+-rw-r--r--. 1 ugrad    1236 Dec  8 21:54 MOCKUP.md
+drwxr-xr-x. 3 ugrad    4096 Dec  5 17:09 project
+-rw-r--r--. 1 ugrad   13679 Dec  5 17:05 README.md
+-rw-r--r--. 1 ugrad       0 Dec  8 23:54 rec43009
+drwxr-xr-x. 2 ugrad    4096 Dec  8 00:07 resources
+-rwxr-xr-x. 1 ugrad      51 Dec  5 17:05 sbt
+-rw-r--r--. 1 ugrad 1216768 Dec  5 17:05 sbt-launch.jar
+drwxr-xr-x. 3 ugrad    4096 Dec  5 17:05 src
+drwxr-xr-x. 5 ugrad    4096 Dec  8 21:55 target
+
+Everage-Devin-fxgame/lib:
+total 20
+-rw-r--r--. 1 ugrad 16481 Dec  5 17:05 fxgame.jar
+
+Everage-Devin-fxgame/project:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  5 17:09 target
+
+Everage-Devin-fxgame/project/target:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  5 17:09 config-classes
+
+Everage-Devin-fxgame/project/target/config-classes:
+total 104
+-rw-r--r--. 1 ugrad   22 Dec  5 17:09 $1e77e4c82597f419ebba.cache
+-rw-r--r--. 1 ugrad  322 Dec  5 17:09 $1e77e4c82597f419ebba.class
+-rw-r--r--. 1 ugrad 2204 Dec  5 17:09 $1e77e4c82597f419ebba$.class
+-rw-r--r--. 1 ugrad  941 Dec  5 17:09 $68b1cd911d3c9fc300d4$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Dec  5 17:09 $68b1cd911d3c9fc300d4.cache
+-rw-r--r--. 1 ugrad  399 Dec  5 17:09 $68b1cd911d3c9fc300d4.class
+-rw-r--r--. 1 ugrad 1321 Dec  5 17:09 $68b1cd911d3c9fc300d4$.class
+-rw-r--r--. 1 ugrad   22 Dec  5 17:09 $97caeda2f728e0e4f6b5.cache
+-rw-r--r--. 1 ugrad  322 Dec  5 17:09 $97caeda2f728e0e4f6b5.class
+-rw-r--r--. 1 ugrad 2201 Dec  5 17:09 $97caeda2f728e0e4f6b5$.class
+-rw-r--r--. 1 ugrad 1373 Dec  5 17:09 $992b6f0aa2d482ae85f0$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Dec  5 17:09 $992b6f0aa2d482ae85f0.cache
+-rw-r--r--. 1 ugrad  399 Dec  5 17:09 $992b6f0aa2d482ae85f0.class
+-rw-r--r--. 1 ugrad 1542 Dec  5 17:09 $992b6f0aa2d482ae85f0$.class
+-rw-r--r--. 1 ugrad  941 Dec  5 17:09 $b97893fb5dad7bd44067$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Dec  5 17:09 $b97893fb5dad7bd44067.cache
+-rw-r--r--. 1 ugrad  399 Dec  5 17:09 $b97893fb5dad7bd44067.class
+-rw-r--r--. 1 ugrad 1485 Dec  5 17:09 $b97893fb5dad7bd44067$.class
+-rw-r--r--. 1 ugrad  886 Dec  5 17:09 $f0ebf4b49b7324a65afb$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Dec  5 17:09 $f0ebf4b49b7324a65afb.cache
+-rw-r--r--. 1 ugrad  399 Dec  5 17:09 $f0ebf4b49b7324a65afb.class
+-rw-r--r--. 1 ugrad 1312 Dec  5 17:09 $f0ebf4b49b7324a65afb$.class
+-rw-r--r--. 1 ugrad  896 Dec  5 17:09 $f4dc381af73b2bfbb818$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Dec  5 17:09 $f4dc381af73b2bfbb818.cache
+-rw-r--r--. 1 ugrad  721 Dec  5 17:09 $f4dc381af73b2bfbb818.class
+-rw-r--r--. 1 ugrad 1309 Dec  5 17:09 $f4dc381af73b2bfbb818$.class
+
+Everage-Devin-fxgame/resources:
+total 24
+-rw-r--r--. 1 ugrad 23840 Dec  8 00:07 invader3.png
+
+Everage-Devin-fxgame/src:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  5 17:05 main
+
+Everage-Devin-fxgame/src/main:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  5 17:05 java
+
+Everage-Devin-fxgame/src/main/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  5 17:05 cs1302
+
+Everage-Devin-fxgame/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 23:29 fxgame
+
+Everage-Devin-fxgame/src/main/java/cs1302/fxgame:
+total 16
+-rw-r--r--. 1 ugrad  557 Dec  8 23:52 Driver.java
+-rw-r--r--. 1 ugrad 6534 Dec  8 23:52 Invader.java
+-rw-r--r--. 1 ugrad 2559 Dec  5 17:05 semantic.cache
+
+Everage-Devin-fxgame/target:
+total 12
+drwxr-xr-x. 4 ugrad 4096 Dec  8 21:55 resolution-cache
+drwxr-xr-x. 3 ugrad 4096 Dec  8 23:53 scala-2.10
+drwxr-xr-x. 5 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/resolution-cache:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 cs1302-fxgame
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 reports
+
+Everage-Devin-fxgame/target/resolution-cache/cs1302-fxgame:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 cs1302-fxgame_2.10
+
+Everage-Devin-fxgame/target/resolution-cache/cs1302-fxgame/cs1302-fxgame_2.10:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 1.0
+
+Everage-Devin-fxgame/target/resolution-cache/cs1302-fxgame/cs1302-fxgame_2.10/1.0:
+total 8
+-rw-r--r--. 1 ugrad  634 Dec  8 21:55 resolved.xml.properties
+-rw-r--r--. 1 ugrad 2023 Dec  8 21:55 resolved.xml.xml
+
+Everage-Devin-fxgame/target/resolution-cache/reports:
+total 96
+-rw-r--r--. 1 ugrad   451 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-compile-internal.xml
+-rw-r--r--. 1 ugrad   442 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-compile.xml
+-rw-r--r--. 1 ugrad   439 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-docs.xml
+-rw-r--r--. 1 ugrad   443 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-optional.xml
+-rw-r--r--. 1 ugrad   441 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-plugin.xml
+-rw-r--r--. 1 ugrad   438 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-pom.xml
+-rw-r--r--. 1 ugrad   443 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-provided.xml
+-rw-r--r--. 1 ugrad   451 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-runtime-internal.xml
+-rw-r--r--. 1 ugrad   442 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-runtime.xml
+-rw-r--r--. 1 ugrad  7584 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-scala-tool.xml
+-rw-r--r--. 1 ugrad   442 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-sources.xml
+-rw-r--r--. 1 ugrad  4376 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-test-internal.xml
+-rw-r--r--. 1 ugrad  4332 Dec  8 21:55 cs1302-fxgame-cs1302-fxgame_2.10-test.xml
+-rw-r--r--. 1 ugrad  4371 Dec  8 21:55 ivy-report.css
+-rw-r--r--. 1 ugrad 20993 Dec  8 21:55 ivy-report.xsl
+
+Everage-Devin-fxgame/target/scala-2.10:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 23:31 classes
+
+Everage-Devin-fxgame/target/scala-2.10/classes:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 23:31 cs1302
+
+Everage-Devin-fxgame/target/scala-2.10/classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 23:53 fxgame
+
+Everage-Devin-fxgame/target/scala-2.10/classes/cs1302/fxgame:
+total 28
+-rw-r--r--. 1 ugrad  798 Dec  8 23:40 Driver.class
+-rw-r--r--. 1 ugrad  548 Dec  8 23:53 Invader$1.class
+-rw-r--r--. 1 ugrad  626 Dec  8 23:53 Invader$2.class
+-rw-r--r--. 1 ugrad  626 Dec  8 23:53 Invader$3.class
+-rw-r--r--. 1 ugrad  626 Dec  8 23:53 Invader$4.class
+-rw-r--r--. 1 ugrad 5149 Dec  8 23:53 Invader.class
+
+Everage-Devin-fxgame/target/streams:
+total 12
+drwxr-xr-x. 14 ugrad 4096 Dec  8 22:01 compile
+drwxr-xr-x.  9 ugrad 4096 Dec  8 21:55 $global
+drwxr-xr-x. 10 ugrad 4096 Dec  8 21:55 runtime
+
+Everage-Devin-fxgame/target/streams/compile:
+total 48
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 compile
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 copyResources
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 22:01 $global
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 incCompileSetup
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 run
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 unmanagedJars
+
+Everage-Devin-fxgame/target/streams/compile/compile:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/compile/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/compile/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad  346 Dec  8 23:53 export
+-rw-r--r--. 1 ugrad 1974 Dec  8 23:53 out
+
+Everage-Devin-fxgame/target/streams/compile/copyResources:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/copyResources/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/copyResources/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 23 Dec  8 23:51 copy-resources
+-rw-r--r--. 1 ugrad 83 Dec  8 23:51 out
+
+Everage-Devin-fxgame/target/streams/compile/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 53 Dec  8 23:53 export
+
+Everage-Devin-fxgame/target/streams/compile/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/compile/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 53 Dec  8 23:53 export
+
+Everage-Devin-fxgame/target/streams/compile/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 22:01 $global
+
+Everage-Devin-fxgame/target/streams/compile/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 22:01 discoveredMainClasses
+
+Everage-Devin-fxgame/target/streams/compile/$global/$global/discoveredMainClasses:
+total 4
+-rw-r--r--. 1 ugrad 26 Dec  8 23:53 data
+
+Everage-Devin-fxgame/target/streams/compile/incCompileSetup:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/incCompileSetup/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/incCompileSetup/$global/streams:
+total 28
+-rw-r--r--. 1 ugrad 27282 Dec  8 23:53 inc_compile_2.10
+
+Everage-Devin-fxgame/target/streams/compile/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Dec  8 23:53 export
+
+Everage-Devin-fxgame/target/streams/compile/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Dec  8 23:53 export
+
+Everage-Devin-fxgame/target/streams/compile/run:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/run/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/run/$global/streams:
+total 104
+-rw-r--r--. 1 ugrad 105248 Dec  8 23:51 out
+
+Everage-Devin-fxgame/target/streams/compile/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 53 Dec  8 23:53 export
+
+Everage-Devin-fxgame/target/streams/compile/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/compile/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/compile/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 53 Dec  8 23:53 export
+
+Everage-Devin-fxgame/target/streams/$global:
+total 28
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 clean
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 dependencyPositions
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 ivyConfiguration
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 ivySbt
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 projectDescriptors
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 update
+
+Everage-Devin-fxgame/target/streams/$global/clean:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/$global/clean/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/$global/clean/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Dec  8 21:55 out
+
+Everage-Devin-fxgame/target/streams/$global/dependencyPositions:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/$global/dependencyPositions/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/$global/dependencyPositions/$global/streams:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 update_cache_2.10
+
+Everage-Devin-fxgame/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10:
+total 8
+-rw-r--r--. 1 ugrad  74 Dec  8 21:55 input_dsp
+-rw-r--r--. 1 ugrad 140 Dec  8 23:53 output_dsp
+
+Everage-Devin-fxgame/target/streams/$global/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/$global/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/$global/$global/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Dec  8 21:55 out
+
+Everage-Devin-fxgame/target/streams/$global/ivyConfiguration:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/$global/ivyConfiguration/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/$global/ivyConfiguration/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 172 Dec  8 21:55 out
+
+Everage-Devin-fxgame/target/streams/$global/ivySbt:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/$global/ivySbt/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/$global/ivySbt/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Dec  8 21:55 out
+
+Everage-Devin-fxgame/target/streams/$global/projectDescriptors:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/$global/projectDescriptors/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/$global/projectDescriptors/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Dec  8 21:55 out
+
+Everage-Devin-fxgame/target/streams/$global/update:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/$global/update/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/$global/update/$global/streams:
+total 28
+-rw-r--r--. 1 ugrad 20780 Dec  8 21:55 out
+drwxr-xr-x. 2 ugrad  4096 Dec  8 21:55 update_cache_2.10
+
+Everage-Devin-fxgame/target/streams/$global/update/$global/streams/update_cache_2.10:
+total 20
+-rw-r--r--. 1 ugrad  1557 Dec  8 21:55 inputs
+-rw-r--r--. 1 ugrad 13588 Dec  8 23:53 output
+
+Everage-Devin-fxgame/target/streams/runtime:
+total 32
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 fullClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 unmanagedJars
+
+Everage-Devin-fxgame/target/streams/runtime/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 117 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/runtime/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/runtime/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 53 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/runtime/fullClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/fullClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/fullClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 117 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/runtime/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/runtime/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/runtime/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 53 Dec  8 23:51 export
+
+Everage-Devin-fxgame/target/streams/runtime/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Dec  8 21:55 $global
+
+Everage-Devin-fxgame/target/streams/runtime/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec  8 21:55 streams
+
+Everage-Devin-fxgame/target/streams/runtime/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 53 Dec  8 23:51 export
+/home/ugrads/everage/Everage-Devin-fxgame:/home/work/cs1302a
